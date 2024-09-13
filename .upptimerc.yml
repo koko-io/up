@@ -6,6 +6,10 @@ sites:
 
   - name: Leo Pizza
     url: https://leo-pizza.de
+  - name: Leo Bollywood
+    url: https://leo-bollywood.de
+  - name: Leo China
+    url: https://leo-chinaservice.de
   - name: Pizzeria Atlantic
     url: https://pizza-atlantic.de
   - name: Pizza Blitz Waldenbuch
