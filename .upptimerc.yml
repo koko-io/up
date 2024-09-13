@@ -17,7 +17,6 @@ sites:
     url: https://pizza-waldenbuch.de
   - name: Pizza-Express Palermo
     url: https://pizzaservice-palermo.de
-  
   - name: IPv6 test
     url: forwardemail.net
     port: 80
