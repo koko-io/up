@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leo-bollywood.de.ico",
     "slug": "leo-bollywood",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3736,
-    "timeDay": 2713,
-    "timeWeek": 3736,
-    "timeMonth": 3736,
-    "timeYear": 3736,
+    "uptime": "99.59%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 3730,
+    "timeDay": 3212,
+    "timeWeek": 3730,
+    "timeMonth": 3730,
+    "timeYear": 3730,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 8
     }
   },
   {
