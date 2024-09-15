@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leo-pizza.de.ico",
     "slug": "leo-pizza",
     "status": "down",
-    "uptime": "88.49%",
-    "uptimeDay": "82.59%",
-    "uptimeWeek": "88.49%",
-    "uptimeMonth": "88.49%",
-    "uptimeYear": "88.49%",
-    "time": 983,
-    "timeDay": 984,
-    "timeWeek": 983,
-    "timeMonth": 983,
-    "timeYear": 983,
+    "uptime": "88.06%",
+    "uptimeDay": "81.85%",
+    "uptimeWeek": "88.06%",
+    "uptimeMonth": "88.06%",
+    "uptimeYear": "88.06%",
+    "time": 977,
+    "timeDay": 976,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2024-09-15": 251
+      "2024-09-15": 262
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leo-pizzaservice.de.ico",
     "slug": "leo-pizza",
     "status": "down",
-    "uptime": "88.49%",
-    "uptimeDay": "82.59%",
-    "uptimeWeek": "88.49%",
-    "uptimeMonth": "88.49%",
-    "uptimeYear": "88.49%",
-    "time": 983,
-    "timeDay": 984,
-    "timeWeek": 983,
-    "timeMonth": 983,
-    "timeYear": 983,
+    "uptime": "88.05%",
+    "uptimeDay": "81.84%",
+    "uptimeWeek": "88.05%",
+    "uptimeMonth": "88.05%",
+    "uptimeYear": "88.05%",
+    "time": 977,
+    "timeDay": 976,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2024-09-15": 251
+      "2024-09-15": 262
     }
   },
   {
