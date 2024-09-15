@@ -6,6 +6,8 @@ sites:
 
   - name: Leo Pizza
     url: https://leo-pizza.de
+  - name: Leo Pizza
+    url: https://leo-pizzaservice.de
   - name: Leo Bollywood
     url: https://leo-bollywood.de
   - name: Leo China
