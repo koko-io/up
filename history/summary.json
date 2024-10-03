@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-03": 646,
+      "2024-10-03": 670,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -103,19 +103,19 @@
     "url": "https://pizza-atlantic.de",
     "icon": "https://icons.duckduckgo.com/ip3/pizza-atlantic.de.ico",
     "slug": "pizzeria-atlantic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2043,
-    "timeDay": 891,
-    "timeWeek": 1240,
-    "timeMonth": 2043,
-    "timeYear": 2043,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 2004,
+    "timeDay": 936,
+    "timeWeek": 1208,
+    "timeMonth": 2004,
+    "timeYear": 2004,
     "dailyMinutesDown": {
-      "2024-10-03": 0
+      "2024-10-03": 24
     }
   },
   {
