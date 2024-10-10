@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-10": 1228,
+      "2024-10-10": 1240,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -131,19 +131,19 @@
     "url": "https://pizza-waldenbuch.de",
     "icon": "https://icons.duckduckgo.com/ip3/pizza-waldenbuch.de.ico",
     "slug": "pizza-blitz-waldenbuch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 1315,
-    "timeWeek": 879,
-    "timeMonth": 1103,
-    "timeYear": 1103,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1105,
+    "timeDay": 1243,
+    "timeWeek": 916,
+    "timeMonth": 1105,
+    "timeYear": 1105,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 12
     }
   },
   {
